@@ -1,0 +1,21 @@
+# Dependencias y módulos instalados
+node_modules/
+
+# Archivos de configuración local (por ejemplo, variables de entorno)
+.env
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs y archivos temporales
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de respaldo y temporales
+*.bak
+*.swp
+*~
