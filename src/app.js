@@ -9,7 +9,10 @@ const pacientes_rutes = require("./router/pacientes.routes");
 
 const app = express();
 
+<<<<<<< HEAD
 //estoy intentando hacer un pull a github
+=======
+>>>>>>> 09949975e8b1c2a6c735987c3fb7dd8c346efea3
 app.use(express.json());
 
 //rutas
